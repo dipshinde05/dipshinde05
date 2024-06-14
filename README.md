@@ -9,7 +9,7 @@
 
 <br>
 <br>
-<h1 align="center">I’m currently learning</h1> <h3 align="center">Data Science<br>Machine Learning<br>Django <br>Insights Trends of different Industry</h3>
+<h1 align="center">I’m currently learning</h1> <h3 align="center">Data Science<br>Machine Learning<br> AWS <br><br> PowerBI <br>Insights Trends of different Industry</h3>
 <br>
 <h1 align="center">How to reach me  </h1>
 <h3 align="center">dipakshinde0507@gmail.com </h3>
